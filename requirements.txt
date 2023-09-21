@@ -1,11 +1,13 @@
-pandas
+pandas 
+notebook
 numpy
-seaborn
-matplotlib
 scikit-learn
-catboost
-xgboost
-dill
-flask 
-
-#-e .
+matplotlib
+python-box==6.0.2
+pyYAML
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
