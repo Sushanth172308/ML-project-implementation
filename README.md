@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-ML-Project-Implementation
+https://github.com/Sushanth172308/ML-project-implementation
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
